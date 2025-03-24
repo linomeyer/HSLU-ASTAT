@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="057120ae-d571-4826-99f1-db641693007a" name="Changes" comment="add exercises for sw04">
+    <list default="true" id="057120ae-d571-4826-99f1-db641693007a" name="Changes" comment="add exercises for sw05">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -12,13 +12,20 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FormatOnSaveOptions">
+    <option name="myRunOnSave" value="true" />
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/venv/Lib/site-packages/pandas/core/generic.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/venv/Lib/site-packages/scipy/stats/_continuous_distns.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/venv/Lib/site-packages/scipy/stats/_discrete_distns.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/venv/Lib/site-packages/seaborn/distributions.py" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="OptimizeOnSaveOptions">
+    <option name="myRunOnSave" value="true" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
@@ -40,7 +47,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.notebooks.jupyter.connections.configuration.JupyterServerConfigurable",
+    "settings.editor.selected.configurable": "actions.on.save",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -70,7 +77,8 @@
       <workItem from="1741076130032" duration="575000" />
       <workItem from="1741076721047" duration="9752000" />
       <workItem from="1741593024702" duration="10786000" />
-      <workItem from="1742198512792" duration="7237000" />
+      <workItem from="1742198512792" duration="7283000" />
+      <workItem from="1742802349188" duration="8332000" />
     </task>
     <task id="LOCAL-00001" summary="fix workspace">
       <option name="closed" value="true" />
@@ -96,7 +104,15 @@
       <option name="project" value="LOCAL" />
       <updated>1741605552021</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="add exercises for sw05">
+      <option name="closed" value="true" />
+      <created>1742205846036</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1742205846036</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -106,6 +122,7 @@
     <MESSAGE value="fix workspace" />
     <MESSAGE value="add exercises for sw03" />
     <MESSAGE value="add exercises for sw04" />
-    <option name="LAST_COMMIT_MESSAGE" value="add exercises for sw04" />
+    <MESSAGE value="add exercises for sw05" />
+    <option name="LAST_COMMIT_MESSAGE" value="add exercises for sw05" />
   </component>
 </project>
