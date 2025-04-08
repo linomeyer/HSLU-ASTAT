@@ -4,8 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="057120ae-d571-4826-99f1-db641693007a" name="Changes" comment="start exercises for sw06">
+    <list default="true" id="057120ae-d571-4826-99f1-db641693007a" name="Changes" comment="add exercises for sw07">
+      <change afterPath="$PROJECT_DIR$/SW06/SW06-final.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SW06/SW06.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/SW06/SW06.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SW07/SW07.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/SW07/SW07.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,9 +26,6 @@
     <setting file="file://$PROJECT_DIR$/venv/Lib/site-packages/scipy/stats/_continuous_distns.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/venv/Lib/site-packages/scipy/stats/_discrete_distns.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/venv/Lib/site-packages/seaborn/distributions.py" root0="SKIP_INSPECTION" />
-  </component>
-  <component name="OptimizeOnSaveOptions">
-    <option name="myRunOnSave" value="true" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
@@ -53,6 +53,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\workspace\hslu\astat\SW06" />
       <recent name="C:\workspace\hslu\astat" />
     </key>
   </component>
@@ -79,7 +80,9 @@
       <workItem from="1741593024702" duration="10786000" />
       <workItem from="1742198512792" duration="7283000" />
       <workItem from="1742802349188" duration="8974000" />
-      <workItem from="1743495149206" duration="4778000" />
+      <workItem from="1743495149206" duration="6665000" />
+      <workItem from="1744008819464" duration="7288000" />
+      <workItem from="1744100883304" duration="1944000" />
     </task>
     <task id="LOCAL-00001" summary="fix workspace">
       <option name="closed" value="true" />
@@ -121,7 +124,15 @@
       <option name="project" value="LOCAL" />
       <updated>1742811963752</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="add exercises for sw07">
+      <option name="closed" value="true" />
+      <created>1743504996798</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1743504996798</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -133,6 +144,7 @@
     <MESSAGE value="add exercises for sw04" />
     <MESSAGE value="add exercises for sw05" />
     <MESSAGE value="start exercises for sw06" />
-    <option name="LAST_COMMIT_MESSAGE" value="start exercises for sw06" />
+    <MESSAGE value="add exercises for sw07" />
+    <option name="LAST_COMMIT_MESSAGE" value="add exercises for sw07" />
   </component>
 </project>
