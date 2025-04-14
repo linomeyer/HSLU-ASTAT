@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="057120ae-d571-4826-99f1-db641693007a" name="Changes" comment="add exercises for sw07">
-      <change afterPath="$PROJECT_DIR$/SW06/SW06-final.ipynb" afterDir="false" />
+    <list default="true" id="057120ae-d571-4826-99f1-db641693007a" name="Changes" comment="add exercises for sw08">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SW06/SW06.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/SW06/SW06.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SW07/SW07.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/SW07/SW07.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SW09/SW09/Daten/2021_Personalerhebung.csv" beforeDir="false" afterPath="$PROJECT_DIR$/SW09/SW09/Daten/2021_Personalerhebung.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SW09/SW09/SW09.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/SW09/SW09/SW09.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,32 +35,33 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;actions.on.save&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "database.data.extractors.current.export.id": "Comma-separated (CSV)_id",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "actions.on.save",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\workspace\hslu\astat\SW06" />
       <recent name="C:\workspace\hslu\astat" />
+      <recent name="C:\workspace\hslu\astat\SW06" />
     </key>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-PY-243.25659.43" />
-        <option value="bundled-python-sdk-181015f7ab06-4df51de95216-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-243.25659.43" />
+        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-PY-243.26053.29" />
+        <option value="bundled-python-sdk-b1dbf8ef85a6-4df51de95216-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-243.26053.29" />
       </set>
     </attachedChunks>
   </component>
@@ -82,7 +82,8 @@
       <workItem from="1742802349188" duration="8974000" />
       <workItem from="1743495149206" duration="6665000" />
       <workItem from="1744008819464" duration="7288000" />
-      <workItem from="1744100883304" duration="1944000" />
+      <workItem from="1744100883304" duration="2106000" />
+      <workItem from="1744614971948" duration="10638000" />
     </task>
     <task id="LOCAL-00001" summary="fix workspace">
       <option name="closed" value="true" />
@@ -132,7 +133,23 @@
       <option name="project" value="LOCAL" />
       <updated>1743504996798</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="add exercises for sw08, finish SW06">
+      <option name="closed" value="true" />
+      <created>1744102989056</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1744102989056</updated>
+    </task>
+    <task id="LOCAL-00008" summary="add exercises for sw08">
+      <option name="closed" value="true" />
+      <created>1744615124503</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1744615124503</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -145,6 +162,8 @@
     <MESSAGE value="add exercises for sw05" />
     <MESSAGE value="start exercises for sw06" />
     <MESSAGE value="add exercises for sw07" />
-    <option name="LAST_COMMIT_MESSAGE" value="add exercises for sw07" />
+    <MESSAGE value="add exercises for sw08, finish SW06" />
+    <MESSAGE value="add exercises for sw08" />
+    <option name="LAST_COMMIT_MESSAGE" value="add exercises for sw08" />
   </component>
 </project>
