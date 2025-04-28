@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="057120ae-d571-4826-99f1-db641693007a" name="Changes" comment="add exercises for sw08">
+    <list default="true" id="057120ae-d571-4826-99f1-db641693007a" name="Changes" comment="finish exercises for sw09">
+      <change afterPath="$PROJECT_DIR$/SW10/SW10/SW10.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SW09/SW09/Daten/2021_Personalerhebung.csv" beforeDir="false" afterPath="$PROJECT_DIR$/SW09/SW09/Daten/2021_Personalerhebung.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SW09/SW09/SW09.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/SW09/SW09/SW09.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,24 +34,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "database.data.extractors.current.export.id": "Comma-separated (CSV)_id",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "actions.on.save",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;database.data.extractors.current.export.id&quot;: &quot;Comma-separated (CSV)_id&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;actions.on.save&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\workspace\hslu\astat\SW10\SW10" />
       <recent name="C:\workspace\hslu\astat" />
       <recent name="C:\workspace\hslu\astat\SW06" />
     </key>
@@ -83,7 +83,8 @@
       <workItem from="1743495149206" duration="6665000" />
       <workItem from="1744008819464" duration="7288000" />
       <workItem from="1744100883304" duration="2106000" />
-      <workItem from="1744614971948" duration="10638000" />
+      <workItem from="1744614971948" duration="12719000" />
+      <workItem from="1745823828436" duration="5554000" />
     </task>
     <task id="LOCAL-00001" summary="fix workspace">
       <option name="closed" value="true" />
@@ -149,7 +150,15 @@
       <option name="project" value="LOCAL" />
       <updated>1744615124503</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="finish exercises for sw09">
+      <option name="closed" value="true" />
+      <created>1744632354714</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1744632354714</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -164,6 +173,7 @@
     <MESSAGE value="add exercises for sw07" />
     <MESSAGE value="add exercises for sw08, finish SW06" />
     <MESSAGE value="add exercises for sw08" />
-    <option name="LAST_COMMIT_MESSAGE" value="add exercises for sw08" />
+    <MESSAGE value="finish exercises for sw09" />
+    <option name="LAST_COMMIT_MESSAGE" value="finish exercises for sw09" />
   </component>
 </project>
