@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="057120ae-d571-4826-99f1-db641693007a" name="Changes" comment="finish exercises for sw09">
-      <change afterPath="$PROJECT_DIR$/SW10/SW10/SW10.ipynb" afterDir="false" />
+    <list default="true" id="057120ae-d571-4826-99f1-db641693007a" name="Changes" comment="start exercises for sw10">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,8 +51,8 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\workspace\hslu\astat\SW10\SW10" />
       <recent name="C:\workspace\hslu\astat" />
+      <recent name="C:\workspace\hslu\astat\SW10\SW10" />
       <recent name="C:\workspace\hslu\astat\SW06" />
     </key>
   </component>
@@ -84,7 +83,12 @@
       <workItem from="1744008819464" duration="7288000" />
       <workItem from="1744100883304" duration="2106000" />
       <workItem from="1744614971948" duration="12719000" />
-      <workItem from="1745823828436" duration="5554000" />
+      <workItem from="1745823828436" duration="7238000" />
+      <workItem from="1746427165525" duration="9399000" />
+      <workItem from="1747033090355" duration="58000" />
+      <workItem from="1747033156511" duration="5626000" />
+      <workItem from="1747146928592" duration="857000" />
+      <workItem from="1747642295230" duration="578000" />
     </task>
     <task id="LOCAL-00001" summary="fix workspace">
       <option name="closed" value="true" />
@@ -158,7 +162,15 @@
       <option name="project" value="LOCAL" />
       <updated>1744632354714</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="start exercises for sw10">
+      <option name="closed" value="true" />
+      <created>1745829752210</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1745829752210</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -174,6 +186,7 @@
     <MESSAGE value="add exercises for sw08, finish SW06" />
     <MESSAGE value="add exercises for sw08" />
     <MESSAGE value="finish exercises for sw09" />
-    <option name="LAST_COMMIT_MESSAGE" value="finish exercises for sw09" />
+    <MESSAGE value="start exercises for sw10" />
+    <option name="LAST_COMMIT_MESSAGE" value="start exercises for sw10" />
   </component>
 </project>
